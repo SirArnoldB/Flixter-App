@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Flixter</string>
+    <string name="overview_transition">transition</string>
+    <string name="title_transition">title transition</string>
+    <string name="image_transition">image transition</string>
 </resources>
